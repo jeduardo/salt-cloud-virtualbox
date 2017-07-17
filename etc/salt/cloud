@@ -1,0 +1,2 @@
+root_dir: .
+pki_dir: ./etc/salt/pki

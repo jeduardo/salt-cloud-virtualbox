@@ -1,0 +1,4 @@
+salt-cloud:
+    config_dir: etc/salt
+    log_file: log/cloud
+    pki_dir: etc/salt/pki
